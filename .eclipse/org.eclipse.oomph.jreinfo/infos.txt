@@ -1,0 +1,3 @@
+C:\Program Files\Java\jdk-19;19;0;1;64;true;1668996446623;x86_64
+C:\Program Files\Java\jre1.8.0_251;1;8;0;64;false;1665500186601;x86_64
+C:\Program Files\Java\jdk1.8.0_251;1;8;0;64;true;1665500149015;x86_64
